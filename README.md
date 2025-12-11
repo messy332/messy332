@@ -16,6 +16,7 @@
 - 🎓 **OJT Monitoring System** - Streamlining internship tracking and management
 - 🌾 **Farmtrack** - Agricultural monitoring and management solution
 - 🏥 **Clinic Appointment System** - Healthcare scheduling made simple
+- 📱 Scape – Coffee Cup Detection App
 
 ---
 
