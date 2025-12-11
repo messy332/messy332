@@ -5,8 +5,8 @@
 <p><em>Full Stack Developer & Mobile App Builder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: parminder](https://img.shields.io/badge/-Parminder-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parminder-cristoria/)
-![GitHub followers](https://img.shields.io/github/followers/parmindercristoria?label=Follow&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=parmindercristoria&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/messy332?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=messy332&color=blueviolet&style=flat-square)
 
 ---
 
@@ -82,11 +82,11 @@ const parminder = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmindercristoria&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=messy332&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmindercristoria&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=messy332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,4 +110,4 @@ const parminder = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-⭐️ From [Parminder Cristoria](https://github.com/parmindercristoria)
+⭐️ From [Parminder Cristoria](https://github.com/messy332)
