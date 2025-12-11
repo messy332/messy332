@@ -1,12 +1,13 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Parminder Cristoria! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey, I'm Parminder Cristoria</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em>Full Stack Developer & Mobile App Builder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Linkedin: parminder](https://img.shields.io/badge/-Parminder-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parminder-cristoria/)
+[![Linkedin:]](https://www.linkedin.com/in/parminder-cristoria-1a3b38393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ![GitHub followers](https://img.shields.io/github/followers/messy332?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=messy332&color=blueviolet&style=flat-square)
+
 
 ---
 
@@ -105,9 +106,5 @@ const parminder = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ⭐️ From [Parminder Cristoria](https://github.com/messy332)
