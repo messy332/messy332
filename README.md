@@ -4,7 +4,7 @@
 
 <p><em>Full Stack Developer & Mobile App Builder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-[![Linkedin:]](https://www.linkedin.com/in/parminder-cristoria-1a3b38393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parminder-cristoria-1a3b38393)
 ![GitHub followers](https://img.shields.io/github/followers/messy332?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=messy332&color=blueviolet&style=flat-square)
 
