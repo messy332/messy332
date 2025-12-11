@@ -83,12 +83,9 @@ const parminder = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=messy332&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.zcy.dev/api?username=messy332&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=messy332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
