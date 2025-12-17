@@ -101,7 +101,7 @@ const parminder = {
 
 ---
 
-<em><b>Thanks for dropping by! Feel free to check out my repos and say hi anytime 👋</b> 😊</em>
+<em style="margin:50px 0px 0px 0px"><b>Thanks for dropping by! Feel free to check out my repos and say hi anytime 👋</b> </em>
 
 ---
 
