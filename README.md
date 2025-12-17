@@ -101,7 +101,7 @@ const parminder = {
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+<em><b>Thanks for dropping by! Feel free to check out my repos and say hi anytime 👋</b> 😊</em>
 
 ---
 
